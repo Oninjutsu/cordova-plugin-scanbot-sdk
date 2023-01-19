@@ -75,12 +75,12 @@
     "path": "0.12.7"
   },
   "dependencies": {
-    "adm-zip": "0.5.5",
+    "adm-zip": "0.5.10",
     "path": "0.12.7",
     "request": "2.88.2"
   },
   "devDependencies": {
-    "adm-zip": "0.5.5",
+    "adm-zip": "0.5.10",
     "path": "0.12.7",
     "request": "2.88.2"
   }
